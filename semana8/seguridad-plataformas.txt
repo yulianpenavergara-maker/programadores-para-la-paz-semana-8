@@ -1,0 +1,7 @@
+ prácticas de seguridad para plataformas digitales comunitarias:
+
+1. Autenticación fuerte: Contraseñas seguras + verificación en 2 pasos 2FA
+2. Control de acceso: Dar permisos mínimos necesarios, no todos administradores
+3. Moderación y reportes: Sistema para denunciar contenido abusivo
+4. Cifrado de datos: Usar HTTPS/SSL para info cifrada
+5. Copias de seguridad: Backups periódicos de base de datos y archivos

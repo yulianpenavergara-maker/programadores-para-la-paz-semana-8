@@ -1,0 +1,11 @@
+La seguridad digital es fundamental en plataformas comunitarias porque protege los datos
+ personales y la privacidad de todos los usuarios. Sin medidas de seguridad, las comunidades
+ son vulnerables a robos de información, suplantación de identidad y ataques maliciosos que 
+pueden destruir la confianza entre miembros. Implementar autenticación en dos pasos, 
+cifrado HTTPS y contraseñas fuertes garantiza que la comunicación sea privada y segura.
+Además, hacer copias de seguridad periódicas permite recuperar la información si ocurre
+un fallo o ataque. Como futuros programadores, debemos diseñar sistemas pensando en la 
+seguridad desde el inicio, no como algo opcional. Una plataforma segura genera confianza
+y permite que las personas participen libremente sin miedo a que su información sea
+expuesta. La seguridad digital es responsabilidad de todos, no solo de los
+administradores.

@@ -1,0 +1,7 @@
+Linux codespaces-420a47 6.8.0-1052-azure #58~22.04.1-Ubuntu SMP Thu Mar 26 05:02:21 UTC
+ 2026 x86_64 x86_64 x86_64 GNU/Linux
+codespace
+2. Por qué es útil en servidores:
+Conocer el sistema operativo y versión sirve para saber qué comandos usar y qué 
+vulnerabilidades parchear. Saber el usuario actual evita ejecutar comandos peligrosos 
+como root sin querer. Es básico para diagnóstico y administración segura.

@@ -1,0 +1,8 @@
+ prácticas de seguridad digital:
+
+1. Autenticación en dos pasos 2FA: Añade una capa extra de seguridad pidiendo código además
+ de la contraseña
+2. Actualizaciones constantes: Mantener sistema operativo y programas actualizados para 
+parchear vulnerabilidades  
+3. Copias de seguridad: Hacer backups periódicos de la información para recuperarse ante 
+ataques o fallos
